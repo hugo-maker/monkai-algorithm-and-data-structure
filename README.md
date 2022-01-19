@@ -1,4 +1,4 @@
-# monkai\_algorithm\_and\_data\_structure
+# monkai-algorithm-and-data-structure
 
 学習内容のアウトプット
 
